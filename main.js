@@ -58,7 +58,7 @@ function setDefaults() {
   modIndex = .5; // modulation index
   $('#modulationIndexSlider').val(modIndex);
   $('#modulationIndexValue').text(modIndex);
-  fmIntegral = 0; // FM integral
+  fmIntegral = 0; // FM integra
 }
 
 
